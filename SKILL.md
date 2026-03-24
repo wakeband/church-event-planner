@@ -1,6 +1,10 @@
 ---
 name: church-event-planner
+version: 1.0.0
 description: Plan and manage church events from start to finish, including timelines, task checklists, vendors, and volunteer coordination. Use this skill whenever someone mentions planning a church event, gathering, retreat, VBS, potluck, fundraiser, conference, special service, wedding, funeral, community outreach, or any ministry event. Trigger on casual phrases too -- "we need to start planning Easter," "who's handling VBS this year," "I need a caterer for the banquet," "can you help me think through this event," or "what still needs to get done for Sunday" should all activate this skill.
+metadata:
+  openclaw:
+    emoji: ⛪
 ---
 
 # Event Planning Assistant
